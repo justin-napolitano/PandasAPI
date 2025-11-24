@@ -1,12 +1,27 @@
 ---
-slug: "github-pandasapi"
-title: "PandasAPI"
-repo: "justin-napolitano/PandasAPI"
-githubUrl: "https://github.com/justin-napolitano/PandasAPI"
-generatedAt: "2025-11-23T09:23:49.203484Z"
-source: "github-auto"
+slug: github-pandasapi
+title: 'PandasAPI: Utility Library for Loading, Transforming, and Writing Pandas DataFrames'
+repo: justin-napolitano/PandasAPI
+githubUrl: https://github.com/justin-napolitano/PandasAPI
+generatedAt: '2025-11-23T09:23:49.203484Z'
+source: github-auto
+summary: >-
+  Utility library consolidating common pandas DataFrame operations for loading CSVs, transforming to
+  dictionaries, and exporting CSV files with minimal boilerplate.
+tags:
+  - pandas
+  - dataframe
+  - csv
+  - python
+  - etl-pipeline
+  - data-engineering
+seoPrimaryKeyword: pandas utility library
+seoSecondaryKeywords:
+  - dataframe operations
+  - csv loading
+  - dataframe export
+seoOptimized: true
 ---
-
 
 # PandasAPI: A Utility Library for Pandas-Centric Data Workflows
 
