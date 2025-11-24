@@ -21,6 +21,13 @@ seoSecondaryKeywords:
   - csv loading
   - dataframe export
 seoOptimized: true
+topicFamily: datascience
+topicFamilyConfidence: 0.95
+topicFamilyNotes: >-
+  The post is focused on a utility library for pandas DataFrames that is directly aimed at ETL and
+  data engineering workflows, which aligns strongly with the 'Datascience' family description,
+  example slugs, and suggested tags. Other families like 'automation' or 'devtools' are less fitting
+  since the post is about data workflows and pandas utilities.
 ---
 
 # PandasAPI: A Utility Library for Pandas-Centric Data Workflows
@@ -68,3 +75,4 @@ This library assumes familiarity with pandas and Python 3. It does not introduce
 ## Summary
 
 PandasAPI serves as a minimalistic but practical utility collection to reduce boilerplate in pandas-based data workflows. It consolidates common loading, transforming, and writing operations into a single interface, promoting code reuse and clarity in data engineering and data science projects.
+
