@@ -1,19 +1,30 @@
 ---
 slug: github-pandasapi
 id: github-pandasapi
-title: PandasAPI
+title: 'PandasAPI: Streamlined ETL and Data Science Workflows'
 repo: justin-napolitano/PandasAPI
 githubUrl: https://github.com/justin-napolitano/PandasAPI
 generatedAt: '2025-11-24T21:35:52.024Z'
 source: github-auto
 summary: >-
-  A collection of common functions designed to streamline ETL, ELT, and data
-  science workflows using pandas. This library provides utility methods for
-  loading, transforming, and writing pandas DataFrames.
-tags: []
-seoPrimaryKeyword: ''
-seoSecondaryKeywords: []
-seoOptimized: false
+  A library of utility functions for efficient ETL and data manipulation using
+  pandas in Python.
+tags:
+  - pandas
+  - python
+  - data science
+  - ETL
+  - ELT
+  - data transformation
+  - dataframes
+seoPrimaryKeyword: pandas data manipulation library
+seoSecondaryKeywords:
+  - ETL with pandas
+  - dataframe utility functions
+  - python data processing
+  - pandas API
+  - data transformation tools
+seoOptimized: true
 topicFamily: null
 topicFamilyConfidence: null
 kind: project
