@@ -6,9 +6,7 @@ repo: justin-napolitano/PandasAPI
 githubUrl: https://github.com/justin-napolitano/PandasAPI
 generatedAt: '2025-11-24T21:35:52.024Z'
 source: github-auto
-summary: >-
-  A library of utility functions for efficient ETL and data manipulation using
-  pandas in Python.
+summary: A library of utility functions for efficient ETL and data manipulation using pandas in Python.
 tags:
   - pandas
   - python
@@ -25,8 +23,8 @@ seoSecondaryKeywords:
   - pandas API
   - data transformation tools
 seoOptimized: true
-topicFamily: null
-topicFamilyConfidence: null
+topicFamily: datascience
+topicFamilyConfidence: 0.9
 kind: project
 entryLayout: project
 showInProjects: true
@@ -101,4 +99,5 @@ PandasAPI/
 - Enhance error handling and logging.
 - Provide parameter flexibility for write operations.
 - Include unit tests and example notebooks.
+
 
