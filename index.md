@@ -1,13 +1,13 @@
 ---
 slug: github-pandasapi
-title: 'PandasAPI: Utility Library for Loading, Transforming, and Writing Pandas DataFrames'
+title: 'PandasAPI: Streamlining Pandas Data Workflows'
 repo: justin-napolitano/PandasAPI
 githubUrl: https://github.com/justin-napolitano/PandasAPI
 generatedAt: '2025-11-23T09:23:49.203484Z'
 source: github-auto
 summary: >-
-  Utility library consolidating common pandas DataFrame operations for loading CSVs, transforming to
-  dictionaries, and exporting CSV files with minimal boilerplate.
+  PandasAPI consolidates common pandas operations into a utility library,
+  improving code reuse and maintainability in data workflows.
 tags:
   - pandas
   - dataframe
@@ -15,19 +15,28 @@ tags:
   - python
   - etl-pipeline
   - data-engineering
+  - data workflows
+  - ETL
+  - data science
+  - Python
 seoPrimaryKeyword: pandas utility library
 seoSecondaryKeywords:
-  - dataframe operations
-  - csv loading
-  - dataframe export
+  - data transformation
+  - CSV handling
+  - data loading
+  - data export
+  - pandas functions
 seoOptimized: true
 topicFamily: datascience
 topicFamilyConfidence: 0.95
 topicFamilyNotes: >-
-  The post is focused on a utility library for pandas DataFrames that is directly aimed at ETL and
-  data engineering workflows, which aligns strongly with the 'Datascience' family description,
-  example slugs, and suggested tags. Other families like 'automation' or 'devtools' are less fitting
-  since the post is about data workflows and pandas utilities.
+  The post is focused on a utility library for pandas DataFrames that is
+  directly aimed at ETL and data engineering workflows, which aligns strongly
+  with the 'Datascience' family description, example slugs, and suggested tags.
+  Other families like 'automation' or 'devtools' are less fitting since the post
+  is about data workflows and pandas utilities.
+kind: project
+id: github-pandasapi
 ---
 
 # PandasAPI: A Utility Library for Pandas-Centric Data Workflows
